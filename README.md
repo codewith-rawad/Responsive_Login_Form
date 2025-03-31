@@ -11,9 +11,7 @@ Responsive-Login/
 │── README.md
 ```
 
-## 📸 **Preview**
-🔹 A sleek and fully responsive login interface:
-![Preview](https://via.placeholder.com/800x400?text=Responsive+Login+Form)
+
 
 ## 🛠 **Technologies Used**
 - ✅ **HTML5** - Page structure 📄  
@@ -25,7 +23,7 @@ Responsive-Login/
 
 1️⃣ **Clone the repository:**
 ```sh
-git clone https://github.com/codewith-rawad/Responsive-Login.git
+git clone https://github.com/codewith-rawad/Responsive_Login_form.git
 ```
 2️⃣ **Open `index.html` in your browser and enjoy!** 🚀
 
